@@ -1,0 +1,196 @@
+
+
+h1 {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 10px 0 10px 20px; 
+    
+   
+    height: 50px;
+}
+
+#actionSelector{
+    position:relative; 
+}
+#Sellers1{
+    position:relative;
+}
+
+
+.box {
+    
+    height: auto;
+    width: 120;
+    padding: 10px;
+ /*  border-style: dotted;*/
+    position: absolute;
+    border-radius: 5px;
+
+}
+
+
+
+#choosebox {
+    border-color: gray;
+     margin-top: 2cm;
+    left: 350px;
+    top: 180px;
+
+}
+
+#layer1 {  
+    
+    left: 580px;
+    top: 710px;
+    width: 715px;
+    height: 140px;
+}
+
+#layer2 {
+     
+     left: 625px;
+    top: 610px;
+    width: 615px;
+    height: 120px;
+}
+
+#layer3 {
+    border-color: red;
+    left: 625px;
+    top:520px;
+    width: 615px;
+    height: 120px;
+}
+#topper1 {  
+    left: 780px;
+    top: 570px;
+    width: 250px;
+    height: 140px;
+}
+#topper2 {
+    
+    border-color: red;
+    left: 780px;
+    top: 470px;
+      width: 250px;
+      height: 160px;
+}
+#topper3 {
+   
+
+    left: 780px;
+    top: 410px;
+    width: 250px;
+    height: 140px;
+}
+#borderlayer1lower{
+    left: 625px;
+    top: 810px;
+    width: 630px;
+    height: 60px;
+}
+#borderlayer1upper {
+    
+    left: 625px;
+    top: 750px;
+    width: 630px;
+    height: 60px;
+}
+#borderlayer2lower{
+     
+    left: 625px;
+    top: 700px;
+    width: 630px;
+    height: 50px;
+}
+#borderlayer2upper {
+      
+    left: 625px;
+    top: 660px;
+    width: 630px;
+    height: 50px;
+}
+#borderlayer3lower{
+
+   left: 660px;
+    top: 610px;
+    width: 530px;
+    height: 50px;
+}
+#borderlayer3upper {
+
+  left: 660px;
+    top: 560px;
+    width: 530px;
+    height: 50px;
+}
+#decoration1stlayermidmid{
+    left: 910px;
+    top: 730px;
+    width: 50px;
+    height: 50px;
+    
+}
+
+
+
+div.box:active {
+    border-color:gray;
+    box-shadow: 5px 5px;
+   
+
+}
+div.box:hover {
+    border-color:red;
+    box-shadow: 5px 5px;
+   
+}
+.show-on-hover:hover > ul.dropdown-menu {
+    display: block;    
+}
+ul.dropdown-menu{
+    background-color: transparent;
+}
+.layer1fortopper{
+    top:620px;
+    left:210px;
+    width:300px;
+    height:120px;
+     position: absolute;
+      border-width: 1px;
+      border-style: dotted;
+     border-color:black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.layer2fortopper{
+    top:500px;
+    left:235px;
+    width:250px;
+    height:120px;
+     position: absolute;
+      border-width: 1px;
+      border-style: dotted;
+     border-color:black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.layer3fortopper{
+    top:380px;
+    left:260px;
+    width:200px;
+    height:120px;
+     position: absolute;
+      border-width: 1px;
+     border-style: dotted;
+     border-color:black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+
+
+
+
+
+
